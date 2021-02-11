@@ -47,3 +47,22 @@ Using Selenium Automation of FB for Internship Task
  <img src = "https://github.com/Nitya-26/FB_Automation_using_Selenium/blob/main/task3.gif" alt = "Posting on Timeline" />
  </p>
  
+## Task 4
+> - The Bot opens the timeline of a random friend .
+> - It comments some random text on the most recent post.
+
+#### Commenting on Friend's Timeline:
+<p>
+ <img src = "https://github.com/Nitya-26/FB_Automation_using_Selenium/blob/main/task4.gif" alt = "Commenting" />
+ </p>
+ 
+ #####Note:
+  > - I have used old version of Facebook for most of the automation because searching of elements is easier.
+  > - The gifs of the Tasks are very slow and not great. As there's very less time. I did not edit.
+  > - I have also automated the "Process of Recovery of the Facebook Account" as my account is in the state of recovery.
+  
+ - I have provided the whole Python code for the automation and performing several tasks using the bot.
+ 
+ ######Referneces
+ > - Selenium Documentataion [Selenium](https://selenium-python.readthedocs.io/)
+ > - 
