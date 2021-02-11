@@ -6,8 +6,8 @@ browser = webdriver.Chrome(ChromeDriverManager().install())
 
 browser.get('https://www.facebook.com/')
 # time.sleep(5)
-user = "channojusonu36@gmail.com"
-password = "nityasantosh123"
+user = "Enter Your email or Useranme"
+password = "Your Password"
 browser.find_element_by_name("email").send_keys(user)
 # time.sleep(2)
 browser.find_element_by_name("pass").send_keys(password)
