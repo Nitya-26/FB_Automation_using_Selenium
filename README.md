@@ -63,6 +63,6 @@ Using Selenium Automation of FB for Internship Task
   
  - I have provided the whole Python code for the automation and performing several tasks using the bot.
  
- ###### Referneces
+ ###### References
  > - Selenium Documentataion [Selenium](https://selenium-python.readthedocs.io/)
  > - webdriver_manager Documentation [webdriver_manager](https://pypi.org/project/webdriver-manager/)
